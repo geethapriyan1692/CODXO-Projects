@@ -34,7 +34,7 @@ Clone the repository:
 └── README.md                       # Project documentation
 
 ## Results
-The best-performing model in terms of fraud detection was the Random Forest classifier, with an AUC-ROC score of 0.98 and a balanced precision-recall trade-off. The implementation of SMOTE significantly improved recall rates.
+The best-performing model in terms of fraud detection was theDecision Tree classifier, with an AUC-ROC score of 0.98 and a balanced precision-recall trade-off. The implementation of SMOTE significantly improved recall rates.
 
 ## Future Improvements
 Implementing more advanced models such as deep learning using LSTM or Autoencoders for anomaly detection.
